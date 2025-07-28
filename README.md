@@ -59,7 +59,7 @@ When you run the program, it prints:
 
 ```bash
 Secret from input1.json: 3
-Secret from input2.json: 3
+Secret from input2.json: 79836264049851
 ```
 
 ### 🖼️ Output Screenshot
