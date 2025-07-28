@@ -51,6 +51,8 @@ java -cp .;lib/json-simple-1.1.1.jar SecretFinder
 ### 🖼️ Sample Input (input1.json)
 ![Input JSON](input1.png)
 
+![Input JSON](input2.png)
+
 ---
 
 ## 📤 Sample Output
