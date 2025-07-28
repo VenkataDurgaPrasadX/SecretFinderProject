@@ -63,7 +63,7 @@ Secret from input2.json: 79836264049851
 ```
 
 ### 🖼️ Output Screenshot
-![Output](output1.png)
+![Output](Images/Screenshot 2025-07-28 144051.png)
 
 ---
 
